@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620989874 source:d:\c++\catherinebmdexport\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1618654649 source:g:\c++\catherinebmdexport\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1618655862 source:d:\c++\catherinebmdexport\res.rc
+
